@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it and the associated article."
+title: "bd-amphibian-overdispersion-ecosphere"
+authors:
+  - family-names: "Sulbaran-Pineda"
+    given-names: "Hendrik"
+    orcid: "https://orcid.org/0000-0003-4679-5032"
+version: "1.0.0"
+date-released: "2025-09-27"
+repository-code: "https://github.com/hsulbaran/bd-amphibian-overdispersion-ecosphere"
+license: "MIT"
+identifiers:
+  - type: doi
+    value: "<Zenodo DOI>"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Sulbaran-Pineda"
+      given-names: "Hendrik"
+    - family-names: "Lampo"
+      given-names: "Margarita"
+    - family-names: "Ballestas"
+      given-names: "Onil"
+    - family-names: "Casanova-Hernández"
+      given-names: "Nuriangel"
+    - family-names: "Rodríguez"
+      given-names: "Diego"
+  title: "Overdispersed pathogen burdens shape chytridiomycosis outcomes in amphibians: A mathematical modeling approach"
+  journal: "Ecosphere"
+  year: 2025
+  doi: "<article DOI>"
