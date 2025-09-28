@@ -10,9 +10,9 @@ This repository contains MATLAB code to reproduce the simulations and figures fo
 
 ## Overview
 - Stage-structured host–pathogen ODE model (adults **H**, tadpoles **h**) with within-host burdens (**ZH**, **Zh**) and an abiotic reservoir (**Z**).
-- Heterogeneous (overdispersed → uniform) burden distributions embedded via an aggregation parameter (\varphi). 
+- Heterogeneous (overdispersed → uniform) burden distributions embedded via an aggregation parameter ($\varphi$). 
 - Seasonal forcing for temperature (affecting within-host zoospore growth) and rainfall (affecting fecundity).
-- Reproducible scripts for long-run dynamics, seasonal patterns, parameter scenarios, and phase diagrams over (\varphi_H, \beta_H).
+- Reproducible scripts for long-run dynamics, seasonal patterns, parameter scenarios, and phase diagrams over ($\varphi_H, \beta_H$).
 
 ## System requirements
 - **MATLAB R2024a** or newer (base installation).  
